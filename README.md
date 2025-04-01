@@ -1,2 +1,3 @@
-# Swadhyayan--self-study-
+# Swadhyayan-->self-study
 This is my first Git Repository
+Author--> Neeraj Gupta
